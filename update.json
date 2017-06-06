@@ -1,4 +1,6 @@
 {
     "version": "1.0",
-    "so": "100100"
+    "so": "100100",
+    "url": "",
+	"message": "this is a message.",
 }
